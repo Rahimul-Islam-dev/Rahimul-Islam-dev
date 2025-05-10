@@ -1,7 +1,9 @@
 <div align="center">
 
 # 💫 About Me:
-Python dev
+I'm a passionate **Python Developer** who loves to build, explore, and solve real-world problems using code.  
+I also work with **JavaScript, PHP, React**, and **Data Analysis** tools like **Pandas**.  
+Currently learning and growing every day to become a better developer and create meaningful digital products.
 
 ## 🌐 Socials:
 <a href="https://youtube.com/@Codersfamily1"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
